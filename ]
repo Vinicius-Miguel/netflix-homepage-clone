@@ -307,7 +307,7 @@ img {
 }
 
 .btn-icon {
-    margin-left: 1rem;
+  margin-left: 1rem;
 }
 
 @media(max-width: 960px) {
